@@ -74,10 +74,18 @@ body {
   padding-top: 2rem;
 }
 
-.hobbies h2 {
-  margin: 0 auto;
+.hobbies h2,
+.hobbies a {
   font-size: 2rem;
   color: rgb(100, 98, 98);
+}
+
+#menu #container {
+  padding: 0px;
+}
+
+#menu {
+  padding: 0px;
 }
 
 .tabla {
